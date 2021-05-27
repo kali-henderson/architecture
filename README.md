@@ -1,4 +1,4 @@
-#Two grand architectural projects to be completed in 2021
+# Two grand architectural projects to be completed in 2021
 
 ![Image](kali-henderson.jpg)
 
